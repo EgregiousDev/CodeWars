@@ -8,3 +8,5 @@ function findAverage(array) {
     const average = (sum / array.length || 0)
     return average
   }
+
+// This is a test
